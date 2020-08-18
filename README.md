@@ -1,5 +1,5 @@
 # Flipkart Grid Software Development Challenge 2.0
-Submitted by "Team IRG4" (<a href="https://github.com/milonimittal"> Miloni Mittal, </a><a href="https://github.com/avmand">Asrita V Mandalam, </a><a href="https://github.com/sehgal-simran">Simran Sehgal</a>)
+Submitted by "Team IRG4" (<a href="https://github.com/milonimittal">Miloni Mittal, </a><a href="https://github.com/avmand">Asrita V Mandalam, </a><a href="https://github.com/sehgal-simran">Simran Sehgal</a>)
 ## Fashion Intelligence Systems :tshirt:
 Looking for a solution to predict Fashion Trends and know the Current Trends too? Presenting Unicorn Fashion Systems :unicorn:, a one-stop-shop solution for all the designers out there. You can see numerous current trends and even predict the upcoming trends. No need to browse through multiple fashion sites, e-commerce websites, inspiration boards to know what people are liking. Let Unicorn Fashion Systems :unicorn: do it for you!
 <br>
